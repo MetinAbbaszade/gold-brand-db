@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "email": ""
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Gold Ring",
+            "price": 500,
+            "description": "A beautiful gold ring."
+        },
+        {
+            "id": 2,
+            "name": "Gold Necklace",
+            "price": 1200,
+            "description": "An elegant gold necklace."
+        }
+    ]
+}
